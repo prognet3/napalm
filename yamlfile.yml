@@ -1,0 +1,6 @@
+- interface: "gi1"
+  description: "test1"
+  speedd: "auto"
+- interface: "gi2"
+  description: "test2"
+  speedd: "1000"
